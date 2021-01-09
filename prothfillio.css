@@ -1,0 +1,142 @@
+/* menu section */
+
+body{
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    padding: 0;
+    /* box-sizing: border-box; */
+}
+
+.top-menu ul{
+    text-decoration: none;
+    text-align: right;
+    margin-right: 100px;
+}
+.top-menu li {
+    display: inline-block;
+    padding: 10Px 20px ;
+    
+}
+.top-menu ul a{
+    text-decoration: none;
+    color: black;
+}
+
+/* Hero section */
+.half-waid{
+    width: 40%;
+    margin-left:5%;
+    padding-left: 2%;
+    float: left;
+    /* margin-top: %; */
+    padding-bottom: 5%;
+}
+h1{
+    font-size: 50px;
+}
+.name-hight{
+    color: orange;
+    font-size: 40px;
+}
+.buttion{
+    text-decoration: none;
+    /* background-color: orange; */
+    background-image: linear-gradient(lightsalmon, tomato);
+    color: white;
+    padding: 10px 30px;
+    border-radius: 5px;
+    font-weight: 700;
+}
+
+.image{
+    width: 70%;
+}
+/* buttiom aria */
+
+
+.works{
+    margin-top: 80%;
+    background-color:#dfe6e9;
+    padding: 500px 0;
+    padding-top: 5%;
+}
+.header{
+    text-align: center;
+    font-size: 50px;
+ }
+span{
+    color: #d35400;
+}
+.continer{
+    /* width:50%; */
+    margin-left: 10%;  
+    
+}
+.box{
+    width: 25%;
+    float: left;
+    position: relative;
+    display: block;
+    overflow: hidden;
+    text-align: center;
+    margin-left: 1%;
+    padding-left: 2%;
+    box-shadow: 10px 10px 20px gray;
+    border-radius: 10px;
+    
+    
+}
+.box img{
+    width: 100%;
+}
+
+
+.image-continer{
+    background-image: url("images/Group_33094_1.png");
+    background-size: 70%;  
+    background-position: center;
+    height: 400px;
+    background-repeat: no-repeat;
+    clear: both;   
+}
+
+.icon-area{
+    padding-top: 5%;
+    padding-left: 20%;
+    padding-right: 10%;   
+}
+
+.buttion-icon{
+    float: right;
+    text-decoration: none;
+    background-image: linear-gradient(lightsalmon, tomato);
+    padding: 10px 20px;
+    color: white;
+    font-weight: 100;
+    border-radius: 5px;
+    position: center center;
+    margin-right:20%;
+    display: inline-block;
+}
+
+.text-over{
+    color: white;
+    margin-top: 5%;
+    font-weight: 100;
+
+}
+    
+.futter{
+    text-align: center;
+}
+.image-icon{
+    border-radius: 500px;
+    width: 2%;
+    padding: 3px;
+}
+.futter h3{
+    color: gray;
+}
+    
+
+
